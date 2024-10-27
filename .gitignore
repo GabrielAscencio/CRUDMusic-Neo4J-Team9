@@ -1,3 +1,9 @@
+#Envs del equipo Credenciales
+.PruebasConexionCreds/
+.env
+.env(DBAsys)
+.env.bak
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,2 @@
+buenas tardes probando el pull y push
+y esto es directo en bash
